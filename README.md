@@ -1,4 +1,4 @@
-# CourseProjectBraTS
+# Brain Tumor Segmentation using Deep Learning
 CAP 5516 Medical Imaging Brain Tumor Segmentation Course Project
 
 Instructions to Execute Code
