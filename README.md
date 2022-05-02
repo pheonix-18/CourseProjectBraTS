@@ -1,7 +1,12 @@
 # Brain Tumor Segmentation using Deep Learning
 CAP 5516 Medical Imaging Brain Tumor Segmentation Course Project
-![plot](./qualitative.png)
-![plot](./quantitative.png)
+<p align="center" width="100%">
+    <img width="33%" src="qualitative.png"> 
+</p>
+<br>
+<p align="center" width="100%">
+    <img width="33%" src="quantitative.png"> 
+</p>
 
 
 Instructions to Execute Code
